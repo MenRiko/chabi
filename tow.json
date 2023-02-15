@@ -1,7 +1,7 @@
 {
    "AdsManager":{
       "adNetwork" :"admob",
-      "interstitial_admob":"cca-app-pub-9322101337669156/6755750544",
+      "interstitial_admob":"ca-app-pub-9322101337669156/6755750544",
       "banner_admob":"ca-app-pub-9322101337669156/8068832216",
       "native_admob":"ca-app-pub-9322101337669156/8143845252",
 
