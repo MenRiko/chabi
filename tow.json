@@ -1,4 +1,4 @@
-{
+  {
    "AdsManager":{
       "adNetwork" :"admob",
       "interstitial_admob":"ca-app-pub-9322101337669156/6755750544",
@@ -11,9 +11,9 @@
    },
    "Songs" :[
       {
-         "song_name":"Abdelhak joker Lmima",
+         "song_name":"Adil EL Madkouri Taba3ha Darha",
          "artist":"شعبي",
-         "song_link":"https://nadorzik.com//mp3/6/676a76d7d06a0924672316cc45ee276c.mp3",
+         "song_link":"https://nadorzik.com/mp3/e/ef5dec4b8ba2724654eac335d76e0298.mp3",
          "image":"https://od.lk/s/NzJfNDMyMzI2MzZf/%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.png"
       },
       {
@@ -218,6 +218,30 @@
          "song_name":"Ah Milano",
          "artist":"شعبي",
          "song_link":"https://nadorzik.com//mp3/5/52e1b80a15589026e39f5921980658ee.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzI2MzZf/%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.png"
+      },
+      {
+         "song_name":"Walid Rehmani Katsali M3aya"                                                                                                                                ",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com/mp3/5/5571bf0562d7de917e2cacccb5c65e41.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzI2MzZf/%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.png"
+      },
+      {
+         "song_name":"Daoudi Kan 7elmi Mnin Narja3"                                                                                                                                 ",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com/mp3/5/5295a7ea007ed3a41484d1d97c138b71.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzI2MzZf/%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.png"
+      },
+      {
+         "song_name":"Abidat Rma Lfarouj"                                                                                                                                 ",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com/mp3/9/9dca7fa2875abc42c43bc37004ebfb74.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzI2MzZf/%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.png"
+      },
+      {
+         "song_name":"Hajib Kachkoul Chaabi"                                                                                                                                 ",
+         "artist":"شعبي",
+         "song_link":"https://nadorzik.com/mp3/0/091f33c506506f7c53011b8217ce2926.mp3",
          "image":"https://od.lk/s/NzJfNDMyMzI2MzZf/%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A.png"
       }
    ]
